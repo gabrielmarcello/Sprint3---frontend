@@ -1,0 +1,58 @@
+footer{
+    width: 100%;
+    background-color: black;
+}
+
+.containerFooter {
+    box-sizing: border-box;
+    width: 95%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+
+.as img {
+    width: 50px;
+}
+
+.LR{
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 1.4rem;
+    line-height: 2rem;
+    margin-bottom: 1.6rem;
+}
+
+.LinksR {
+    padding: 25px;
+}
+
+.logoporto img {
+    width: 200px;
+}
+
+.redes-sociais img{
+    width: 30px;
+    margin: 5px;
+}
+
+.redes-sociais {
+    width: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.icons {
+    width: auto;
+    height: 550px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.Perguntas {
+    text-decoration: none;
+}
+
