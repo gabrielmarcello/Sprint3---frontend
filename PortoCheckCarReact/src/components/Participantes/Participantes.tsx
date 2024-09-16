@@ -4,7 +4,7 @@ function Participantes(){
         <>
         <body className='participantes'>
     <div className="containerPart">
-        <a href="https://github.com/nicolasmeira5/Sprint3">GitHub Repository</a>
+        <a href="https://github.com/gabrielmarcello/Sprint3---frontend">GitHub Repository</a>
         
         <div className="member">
             <img src="img/leo.jpeg" alt="Leo Mota"/>
